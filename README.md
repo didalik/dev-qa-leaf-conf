@@ -1,3 +1,3 @@
 # Configure and Bind your [dev-qa](https://github.com/didalik/role-based-org) leaf
 
-Leaf configuration for the dev-qa role
+Here, I am trying to follow the good old <i>configure; make; make install</i> [adage](https://tldp.org/LDP/LG/current/smith.html).
